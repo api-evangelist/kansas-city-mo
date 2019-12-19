@@ -1,0 +1,43 @@
+{
+    "name": "Kansas City, MO",
+    "description": "Open data allows Kansas City to be more transparent, and allows citizens to be better-informed participants in democratic processes.  Open data also provides for better organizational efficiency for programs like KCStat, and allows civic entrepreneurs to more easily build technological solutions to improve City services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-57-pm.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kansas-city-mo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kansas City, MO",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-57-pm.png",
+            "humanURL": "https:\/\/data.kcmo.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kansas-city-mo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kansas-city-mo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/data.kcmo.org\/"
+        }
+    ]
+}
